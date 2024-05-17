@@ -10,7 +10,7 @@
 </p>
 
 <div align="center">
-    <audio src="output/falando-pythones-ep-1.mp3" controls title="Podcast Editado"></audio>
+    <audio src="output/falando-pythones-ep-1.MP3" controls title="Podcast Editado"></audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
