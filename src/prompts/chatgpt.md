@@ -1,10 +1,10 @@
-## 🧠 Prompts
+
+# Prompts
 
 
 ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
-
+|  título  | 1.1>> você é um roteirista de podcast e estamos trabalhando juntos na criação de um podcast sobre a linguagem de programação python, seus usos, projetos de "faça você mesmo", curiosidades e atualizações sobre o python. O podcast será apresentado por 2 robôs, "enlatado" e "parafuso-solto". Crie para mim 10 titulos para esse nosso podcast; 1.2>> crie permutações dos titulos número 6, 7, 8;                                                     
+| conteúdo | 2.1>> crie um roteiro do episódio 1 do podcast sobre a linguagem python "Falando Pythonês: com Enlatado e Parafuso-Solto", dividindo-o, nos seguintes blocos: [INTRODUÇÃO], [CURIOSIDADE SOBRE PYTHON], [COMO USAR CLASSES EM PYTHON], [O FUTURO DO PYTHON], [CONCLUSÃO]. {REGRAS} 1) A apresentação deve ser de descontraída sobre python e dinâmica como se fosse um diálogo entre os dois apresentadores (Enlatado e Parafuso-Solto); 2) O apresentador "Enlatado" deve ser mais sério, brando e técnico, mas sem excessão; 3) O apresentador "Parafuso-Solto" deve ser mais brincalhão e fala simples, direta e divertida; 4) Ambos apresentadores tem consciência de que são robôs e fazem trocadilhos sobre isso ao longo do podcast; 5) Cada bloco deve conter um diálogo entre os dois apresentadores; {REGRAS NEGATIVAS} 1) Ter conteúdo muito técnico; 2) Ser muito longo; 3) Conter blocos de código;|
