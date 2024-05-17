@@ -1,18 +1,3 @@
-<p align="center">
-<img 
-    src="./assets/cover_art.jpeg"
-    width="300"
-    />
-</p>
-
-<p align="center">
-    preview do podcast
-</p>
-
-<div align="center">
-    <audio src="output/falando-pythones-ep-1.MP3" controls title="Podcast Editado"></audio>
-</div>
-
 # Projeto Podcast Gerado por I.A.s
 
 
