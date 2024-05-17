@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/cover_art.png"
+    src="./assets/cover_art.jpeg"
     width="300"
     />
 </p>
@@ -10,7 +10,7 @@
 </p>
 
 <div align="center">
-    <audio src="output/Falando Pythonês - Episódio 1 (editado).MP3" controls title="Podcast Editado"></audio>
+    <audio src="output/falando-pythones-ep-1.mp3" controls title="Podcast Editado"></audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
